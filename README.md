@@ -130,7 +130,7 @@ The original PDF used during development is not included in the public repositor
 5. Rename the PDF to:
 
 ```text
-1st Year CSIT Booklet.pdf
+ANYTHING YOU WANT BUT SPECIFY THE SAME IN THE CODE TOO!!!.
 ```
 
 Your folder structure should look like this:
